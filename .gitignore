@@ -1,0 +1,61 @@
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables
+
+.env
+.env.*
+
+# Logs
+
+*.log
+
+# Build files
+
+build/
+dist/
+*.egg-info/
+
+# IDE files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Testing
+
+.pytest_cache/
+.coverage
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Database
+
+*.sqlite3
+
+# Temporary files
+
+*.tmp
+*.swp
+
+# Secrets / config
+
+config.py
+secrets.py
